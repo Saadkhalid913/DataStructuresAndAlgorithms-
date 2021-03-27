@@ -2,6 +2,9 @@
 
 https://leetcode.com/problems/first-bad-version/submissions/
 
+Runtime: 12 ms, faster than 93.98% of Python online submissions for First Bad Version.
+Memory Usage: 13.5 MB, less than 34.95% of Python online submissions for First Bad Version.
+
 '''
 
 
