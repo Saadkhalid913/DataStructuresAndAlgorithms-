@@ -1,3 +1,8 @@
+'''
+    Queue data structure by Saadkhalid913
+'''
+
+
 class Queue(list):
     def __init__(self):
         super().__init__()
