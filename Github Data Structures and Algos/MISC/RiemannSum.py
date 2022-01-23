@@ -1,6 +1,7 @@
 import math
 
 
+
 def func(x: float):
     '''
     define however you want, input: float, rtype: float  
